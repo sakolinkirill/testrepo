@@ -5,7 +5,7 @@
     <groupId>psynet</groupId>
     <artifactId>psynet</artifactId>
     <packaging>war</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>psynet</name>
   
     <properties>
@@ -16,7 +16,7 @@
 	
 	<scm>
         <developerConnection>scm:git:https://github.com/sakolinkirill/testrepo.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>psynet-1.0.1</tag>
   </scm>
     
     <dependencies>
